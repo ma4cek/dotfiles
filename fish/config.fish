@@ -19,9 +19,9 @@ set -x ECORE_EVAS_ENGINE 'wayland-egl'
 set -x ELM_ENGINE 'wayland_egl'
 set -x _JAVA_AWT_WM_NONREPARENTING 1
 set -x NO_AT_BRIDGE 1
+set -x WLR_RENDERER 'vulkan'
 
 # QT theme for openSUSEway
 # needs qt5ct and adwaita-qt5 packages
 # default config is /etc/xdg/qt5ct/qt5ct.conf
 set -x QT_QPA_PLATFORMTHEME 'qt5ct'
-
