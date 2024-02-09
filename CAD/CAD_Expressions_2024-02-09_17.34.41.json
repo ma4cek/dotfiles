@@ -1,0 +1,76 @@
+{
+  "default": [
+    {
+      "expression": "*.1password.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "FrmLfp9jB"
+    },
+    {
+      "expression": "*.amazon.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ZypNZLVY1"
+    },
+    {
+      "expression": "*.amazon.de",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bRZkKRa9M"
+    },
+    {
+      "expression": "*.disneyplus.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "xrhQaFqjB"
+    },
+    {
+      "expression": "*.doctolib.de",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "zJ3mS6oje"
+    },
+    {
+      "expression": "*.ebay.de",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "HGWHLJ4wS"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "y_vCitDoq"
+    },
+    {
+      "expression": "*.netflix.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "lcx0KOQ_i"
+    },
+    {
+      "expression": "*.posteo.de",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "tQl_flRd_"
+    }
+  ]
+}
