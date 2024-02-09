@@ -109,8 +109,8 @@
     enable = true;
     settings = {
       global = {
-        username = "marek.vogel@posteo.de";
-        password = "J9sn4LRJXE3sneEv6J";
+        username = "msdsdsd";
+        password = "sdasdas";
       };
     };
   };
